@@ -1,0 +1,26 @@
+[{
+  "flights": [      {
+    "departure":          {
+      "iata": "KBP",
+      "name": "Boryspil International Airport",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "timeZone": "Europe/Kiev"
+    },
+    "arrival":          {
+      "iata": "AMS",
+      "name": "Amsterdam Airport Schiphol",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "timeZone": "Europe/Amsterdam"
+    },
+    "airline":          {
+      "name": "KLM Royal Dutch Airlines",
+      "iata": "KL",
+      "country": "Netherlands"
+    },
+    "departureTime": "2017-09-28T05:45:00+03:00[Europe/Kiev]",
+    "arrivalTime": "2017-09-28T07:35:00+02:00[Europe/Amsterdam]"
+  }],
+  "price": 0
+}]

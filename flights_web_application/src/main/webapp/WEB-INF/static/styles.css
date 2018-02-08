@@ -1,0 +1,22 @@
+#search {
+    margin: 1%;
+}
+#results {
+    margin: 1%;
+}
+#error-msg {
+    color: red;
+}
+.flight {
+    margin-bottom: 2%;
+}
+.connect-flight {
+    margin: 1%;
+    border: 1px solid black;
+}
+.flight-route {
+    color: firebrick;
+}
+.flight-value {
+    color: black;
+}
